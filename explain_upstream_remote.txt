@@ -1,0 +1,1 @@
+This is needed when cloning cos the default remote(origin) does not keep track of your original repo.(origin points to your fork on Github)  

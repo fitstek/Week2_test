@@ -1,0 +1,2 @@
+Branches are created when we want to work on developing isolated features. This is handy cos we can make changes in a branch but the root branch
+(repo) will not be affected. When we are done with our changes we have the option of merging it back to our root.

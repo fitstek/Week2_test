@@ -1,0 +1,1 @@
+It creates a copy of the git repo on the server to the local machine.
